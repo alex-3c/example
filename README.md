@@ -1,3 +1,3 @@
 # example
 short description
-adding description
+adding description corrected
